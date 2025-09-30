@@ -1,7 +1,6 @@
-# Developing a Neural Network Classification Model# Name: kathiravan
+# Developing a Neural Network Classification Model
+# Name: Kathiravan
 # Reg No: 212222230063
-# Date : 3/9/2025
-
 ## AIM
 To develop a neural network classification model for the given dataset.
 
@@ -39,8 +38,7 @@ Display the test accuracy, confusion matrix, and classification report.
 
 ## PROGRAM
 
-### Name: Kathiravan
-
+### Name: kathiravan
 ### Register Number: 21222230063
 
 ```
